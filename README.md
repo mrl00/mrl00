@@ -75,4 +75,5 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrl00&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrl00&show_icons=true&theme=dark" alt="Murilo Lacerda" />
 </div>
