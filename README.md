@@ -1,10 +1,10 @@
-### Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer from Brazil 🇧🇷.
+#### Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer from Brazil 🇧🇷.
 
-### Currently working at [gerajobs](http://gerajobs.com) as software engineer.
+#### Currently working at [gerajobs](http://gerajobs.com) as software engineer.
 
 </br>
 
-## Languages:
+### Languages:
 </br>
 <code>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -29,30 +29,30 @@
 </br>
 </br>
 
-## Frameworks and tools:
+### Frameworks and tools:
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
 </code>
 <code>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>
+    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>
 </code>
 <code>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
