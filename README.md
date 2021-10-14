@@ -59,7 +59,7 @@
 </code>
 <code>
     <img height="30" src="https://actix.rs/img/logo-nav.png" />
-</code> </br>
+</code>
 <code>
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 </code> 
@@ -70,7 +70,6 @@
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
 </code> 
 
-</br>
 </br>
 
 <div>
