@@ -1,6 +1,5 @@
 #### Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer from Brazil 🇧🇷.
 
-#### Currently working at [gerajobs](http://gerajobs.com) as software engineer.
 
 </br>
 
