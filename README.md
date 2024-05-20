@@ -1,80 +1,75 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00)
 
-#### Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer from Brazil 🇧🇷.
+<div align="center"> 
+    <h3>Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer.</h3>
+    <a href="mailto:muriiloown@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/murilo-mlacerda/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+</div>
 
 
-</br>
-
-### Languages:
-</br>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</code>
-
-
-</br>
-</br>
-
-### Frameworks and tools:
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg"/>
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-</code>
-<code>
-    <img height="30" src="https://actix.rs/img/logo-nav.png" />
-</code>
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-</code> 
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-</code> 
-<code>
-    <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
-</code> 
-
-</br>
-</br>
-
+<div align="center">
+    <h2>🚀 Tech and Tools</h2>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"/>
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"/>
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    </code>
+    <code>
+        <img height="50" src="https://actix.rs/img/logo-nav.png" />
+    </code>
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+    </code> 
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+    </code> 
+    <code>
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" />
+    </code> 
+</div>
+<br/>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrl00&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api?username=mrl00&show_icons=true&theme=dark" alt="Murilo Lacerda" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrl00&theme=onedark">
+    <img src="https://github-readme-stats.vercel.app/api?username=mrl00&show_icons=true&theme=onedark&rank_icon=github" alt="Murilo Lacerda" />
 </div>
