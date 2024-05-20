@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" />
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00)
 
 #### Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer from Brazil 🇧🇷.
 
