@@ -1,7 +1,7 @@
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00)
 
 <div align="center"> 
-    <h3>Hello, I'm Murilo a web developer passionate about functional programming aspiring to DevOps Engineer.</h3>
+    <h3>Hello, I'm Murilo a web developer passionate about functional programming</h3>
     <a href="mailto:muriiloown@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
     </a>
