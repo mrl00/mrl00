@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm Murilo 👋</h1>
-  <h3>A passionate backend developer who loves functional programming and building reliable systems.</h3>
+  <h3>A passionate backend developer who loves programming and building reliable systems.</h3>
 </div>
 
 ---
@@ -56,6 +56,6 @@
 
 ### 💬 Let's Connect
 
-Feel free to reach out if you'd like to talk about **functional programming**, Rust, Go, backend architecture, or any tech topic!
+Feel free to reach out if you'd like to talk about **programming**, Rust, Go, backend architecture, or any tech topic!
 
 <!-- You can add your LinkedIn, X/Twitter, personal website, etc. here later -->
