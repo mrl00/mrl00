@@ -1,13 +1,10 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" alt="Visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" alt="Profile visitors" />
 </div>
-
-<img src="https://readme-typing-svg.herokuapp.com/?...your text..." alt="Typing SVG" />
-
 
 <div align="center">
   <h1>Hi, I'm Murilo 👋</h1>
-  <h3>A passionate backend developer who loves programming and building reliable systems.</h3>
+  <h3>A passionate backend developer who loves functional programming and building reliable systems.</h3>
 </div>
 
 ---
@@ -49,22 +46,18 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrl00&theme=onedark&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
 
----
+  <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrl00&theme=onedark" alt="Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mrl00&theme=onedark&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrl00&theme=onedark&hide_border=true" alt="Contribution Streak" />
 </div>
 
 ---
 
 ### 💬 Let's Connect
 
-Feel free to reach out if you'd like to talk about **programming**, Rust, Go, backend architecture, or any tech topic!
-
-<!-- You can add your LinkedIn, X/Twitter, personal website, etc. here later -->
+Feel free to reach out if you'd like to talk about **functional programming**, Rust, Go, backend architecture, or any tech topic!
