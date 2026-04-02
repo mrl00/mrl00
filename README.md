@@ -5,7 +5,7 @@
 
 <div align="center">
   <h1>Hi, I'm Murilo 👋</h1>
-  <h3>A passionate web developer who loves functional programming and building robust backend systems.</h3>
+  <h3>A passionate web developer who loves programming and building robust backend systems.</h3>
 </div>
 
 ---
