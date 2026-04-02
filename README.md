@@ -2,9 +2,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" alt="Profile visitors" />
 </div>
 
+<img src="https://readme-typing-svg.herokuapp.com/?...your text..." alt="Typing SVG" />
+
 <div align="center">
   <h1>Hi, I'm Murilo 👋</h1>
-  <h3>A passionate backend developer who loves functional programming and building reliable systems.</h3>
+  <h3>A backend developer who loves programming and building reliable systems.</h3>
 </div>
 
 ---
