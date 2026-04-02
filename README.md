@@ -62,4 +62,4 @@
 
 ### 💬 Let's Connect
 
-Feel free to reach out if you'd like to talk about **functional programming**, Rust, Go, backend architecture, or any tech topic!
+Feel free to reach out if you'd like to talk about **programming**, Rust, Go, backend architecture, or any tech topic!
