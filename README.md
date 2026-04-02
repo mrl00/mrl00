@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" alt="Profile visitors" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" alt="Visitors" />
 </div>
+
+<img src="https://readme-typing-svg.herokuapp.com/?...your text..." alt="Typing SVG" />
+
 
 <div align="center">
   <h1>Hi, I'm Murilo 👋</h1>
@@ -50,6 +53,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrl00&theme=onedark&layout=compact&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrl00&theme=onedark" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrl00&theme=onedark&no-bg=true" alt="Trophies" />
 </div>
 
 ---
