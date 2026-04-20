@@ -60,6 +60,8 @@
 
 ---
 
+[![Estatísticas do Beecrowd](https://beecrowd-stats.vercel.app/api?user=SEU_ID_AQUI)](https://www.beecrowd.com.br/judge/pt/profile/60291)
+
 ### 💬 Let's Connect
 
 Feel free to reach out if you'd like to talk about **programming**, Rust, Go, backend architecture, or any tech topic!
