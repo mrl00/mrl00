@@ -60,7 +60,7 @@
 
 ---
 
-[![Estatísticas do Beecrowd](https://beecrowd-stats.vercel.app/api?user=60291)](https://www.beecrowd.com.br/judge/pt/profile/60291)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-orange?style=for-the-badge&logo=beecrowd&logoColor=white)](https://www.beecrowd.com.br/judge/pt/profile/60291)
 
 ### 💬 Let's Connect
 
