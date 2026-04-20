@@ -60,8 +60,6 @@
 
 ---
 
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Perfil-orange?style=for-the-badge&logo=beecrowd&logoColor=white)](https://judge.beecrowd.com/pt/profile/60291)
-
 ### 💬 Let's Connect
 
 Feel free to reach out if you'd like to talk about **programming**, Rust, Go, backend architecture, or any tech topic!
