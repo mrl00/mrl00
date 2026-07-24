@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">
-  <h1>Hi, I'm Murilo 👋</h1>
   <h3>A backend developer who loves programming and building reliable systems.</h3>
 </div>
 
