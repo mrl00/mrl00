@@ -1,62 +1,106 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mrl00.mrl00" alt="Profile visitors" />
-</div>
+<!--
+  Hey, curious human. You found the source.
+  There is no place like ~
+-->
 
 <div align="center">
-  <h3>A backend developer who loves programming and building reliable systems.</h3>
-</div>
 
----
+# mrl00<span>_</span>
 
-### 🚀 About Me
+**Backend Software Engineer · Systems Programming Enthusiast**
 
-- 🔭 Focused on **backend development** with emphasis on performance, scalability, and clean architecture.
-- 🌱 Strong advocate of **functional programming** principles and type-safe code.
-- 💡 Always exploring better ways to write maintainable and efficient software.
-- 📫 Open to interesting conversations and collaborations!
+*Building reliable software, exploring abstractions, and enjoying the details.*
 
----
+[![Java](https://img.shields.io/badge/Java-1A1B26?style=flat-square&logo=openjdk&logoColor=E0AF68)](https://www.java.com/)
+[![Rust](https://img.shields.io/badge/Rust-1A1B26?style=flat-square&logo=rust&logoColor=F7768E)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-1A1B26?style=flat-square&logo=go&logoColor=7AA2F7)](https://go.dev/)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1A1B26?style=flat-square&logo=archlinux&logoColor=7DCFFF)](https://archlinux.org/)
 
-### 🛠️ Tech Stack & Tools
+[**Projects**](#selected-work) · [**Toolbox**](#toolbox) · [**Beyond-the-code**](#beyond-the-code) · [**Connect**](#connect)
 
-<div align="center">
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" title="Spring" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" title="Rust" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" title="Go" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/actix/actix-original.svg" alt="Actix" title="Actix" />
-
-  <br/><br/>
-
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" alt="GraphQL" title="GraphQL" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="Kafka" title="Apache Kafka" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" title="PostgreSQL" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
-
-  <br/><br/>
-
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" title="Git" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" title="GitHub" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" title="DigitalOcean" />
 </div>
 
 ---
 
-### 📊 GitHub Activity
+### `whoami`
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mrl00&theme=onedark&layout=compact&hide_border=true" alt="Top Languages" />
+I'm a backend developer who enjoys building dependable systems and understanding how things work beneath the surface.
 
-  <br/><br/>
+My background is primarily in **Java and Spring**, and I also work with **Rust and Go**. I care about clear domain models, maintainable APIs, type safety, performance, and the trade-offs behind good software design.
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrl00&theme=onedark&hide_border=true" alt="Contribution Streak" />
-</div>
+Lately, I've been exploring **systems programming**, **algorithms and graph theory**, **formal models of computation**, and tools that make development more enjoyable.
+
+```text
+$ cat /etc/motd
+Think deeply. Build simply. Keep learning.
+```
+
+### Selected work
+
+| Project | What you'll find | Built with |
+| :--- | :--- | :--- |
+| **[zxcq-gograph](https://github.com/mrl00/zxcq-gograph)** | A graph library for Go, ported from Graphs.jl, with graph algorithms and utilities. | `Go` · `Algorithms` |
+| **[zxc-sudoku](https://github.com/mrl00/zxc-sudoku)** | A terminal Sudoku game with puzzle generation, difficulty levels, and hints. | `Rust` · `Ratatui` |
+| **[Tokyo Fire](https://github.com/mrl00/tokyofire.nvim)** | A warm Neovim colorscheme derived from TokyoNight, with terminal theme extras. | `Lua` · `Neovim` |
+
+> Readable code. Reproducible builds. Boringly reliable software.
+
+### Toolbox
+
+**Backend & APIs**
+
+<p>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" title="Rust" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" title="Go" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/actix/actix-original.svg" alt="Actix Web" title="Actix Web" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" />
+</p>
+
+**Data, infrastructure & delivery**
+
+<p>
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" />
+</p>
+
+### Beyond the code
+
+- **Computer science:** graph algorithms, type systems, programming language theory, and software architecture.
+- **Unix culture:** Arch Linux, Neovim, Kitty, Zsh, and terminal-first workflows.
+- **Side quests:** small tools, developer experience, and the occasional TUI experiment.
+
+<details>
+<summary><code>./about --verbose</code> — bonus terminal output</summary>
+
+```console
+$ ./about --verbose
+interests    : algorithms | systems | programming languages
+editor       : neovim
+shell        : zsh
+terminal     : kitty
+os           : arch linux
+status       : always learning
+
+$ echo "There is no place like ~"
+There is no place like ~
+```
+
+</details>
+
+### Connect
+
+Interested in **backend engineering**, **Rust**, **Go**, **algorithms**, or developer tools? Feel free to explore the repositories, open an issue about a project, or start a technical conversation on GitHub.
+
+**[github.com/mrl00](https://github.com/mrl00)**
 
 ---
 
-### 💬 Let's Connect
-
-Feel free to reach out if you'd like to talk about **programming**, Rust, Go, backend architecture, or any tech topic!
+<div align="center">
+  <sub><code>while (curious) { learn(); build(); }</code></sub>
+</div>
