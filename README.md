@@ -55,6 +55,7 @@ Think deeply. Build simply. Keep learning.
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" title="Rust" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/actix/default.svg" alt="Actix Web" title="Actix Web" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" title="Go" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gcp-api/default.svg" alt="API" title="API" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" />
 </p>
 
@@ -63,6 +64,7 @@ Think deeply. Build simply. Keep learning.
 <p>
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rabbitmq/default.svg" alt="RabbitMQ" title="RabbitMQ" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" />
