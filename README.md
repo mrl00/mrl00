@@ -53,8 +53,8 @@ Think deeply. Build simply. Keep learning.
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="Rust" title="Rust" />
-  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" title="Go" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/actix/default.svg" alt="Actix Web" title="Actix Web" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" title="Go" />
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" />
 </p>
 
